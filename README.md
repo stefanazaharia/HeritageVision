@@ -1,6 +1,6 @@
 # HeritageVision
 
-Pentru a utiliza moodelele pentru clasificator si restaurator este necesara descarcarea lor de pe Google Drive.
+Pentru a utiliza modelele pentru clasificator si restaurator este necesara descarcarea lor de pe Google Drive.
 
 - pentru restaurator: https://drive.google.com/drive/u/1/folders/1itnKRWj6IwhpgcGEyNEzkm5_z8c-P-Wo (generator_restaurare_ultim.pth)
 
