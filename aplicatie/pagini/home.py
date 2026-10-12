@@ -27,7 +27,7 @@ def afiseaza_home():
         ("Fotografii în dataset", "14.367"),
         ("Epoci antrenament", "200"),
         ("Tipuri de defecte", "4"),
-        ("Acuratețe clasificare", "~89%"),
+        ("Modele antrenate de la zero", "2"),
     ]
     for col, (label, valoare) in zip([col1, col2, col3, col4], statistici):
         with col:
